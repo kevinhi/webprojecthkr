@@ -10,7 +10,7 @@ End Code
                 <h2>@ViewData("Message")</h2>
             </hgroup>
             <p>
-                hello kevin
+                hello kevin hello joel
             </p>
         </div>
     </section>
